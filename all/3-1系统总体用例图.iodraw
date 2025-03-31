@@ -292,7 +292,7 @@
         <mxCell id="NmbadWSy5pxlyyZu-OdS-93" value="违约" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="880" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NmbadWSy5pxlyyZu-OdS-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=13;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NmbadWSy5pxlyyZu-OdS-76" target="NmbadWSy5pxlyyZu-OdS-96" edge="1">
+        <mxCell id="NmbadWSy5pxlyyZu-OdS-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=13;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fJ0QYadZMjm4ZtiKjU3B-2" target="NmbadWSy5pxlyyZu-OdS-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.9999999999891" y="895.94" as="sourcePoint" />
             <mxPoint x="572" y="1043.44" as="targetPoint" />
@@ -304,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-96" value="验证合同" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="930" width="80" height="25" as="geometry" />
+          <mxGeometry x="490" y="990" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="fJ0QYadZMjm4ZtiKjU3B-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=13;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -330,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fJ0QYadZMjm4ZtiKjU3B-6" value="验证合同" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="940" width="80" height="25" as="geometry" />
+          <mxGeometry x="570" y="930" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
