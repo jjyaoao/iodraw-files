@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GThkIN-dRebUr2Z3ZGrV-7" value="评论管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="595" width="80" height="25" as="geometry" />
+          <mxGeometry x="40" y="595" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;endSize=13;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GThkIN-dRebUr2Z3ZGrV-7" target="NmbadWSy5pxlyyZu-OdS-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +106,7 @@
           <mxGeometry x="-140" y="705" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-34" value="历史溯源" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="815" width="80" height="25" as="geometry" />
+          <mxGeometry x="35" y="815" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;endSize=13;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NmbadWSy5pxlyyZu-OdS-34" target="NmbadWSy5pxlyyZu-OdS-39" edge="1">
           <mxGeometry relative="1" as="geometry">
