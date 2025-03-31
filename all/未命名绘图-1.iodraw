@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="BNY0NMVV9BmjR6hMzoL2" name="第 1 页">
-    <mxGraphModel dx="1810" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NmbadWSy5pxlyyZu-OdS-48" value="注册" style="ellipse;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="NmbadWSy5pxlyyZu-OdS-48" value="注册" style="ellipse;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="525" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=13;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GThkIN-dRebUr2Z3ZGrV-4" target="NmbadWSy5pxlyyZu-OdS-43" edge="1">
