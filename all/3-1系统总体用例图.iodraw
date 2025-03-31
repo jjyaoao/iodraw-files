@@ -12,7 +12,7 @@
             <mxPoint x="345" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GThkIN-dRebUr2Z3ZGrV-3" value="租客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="GThkIN-dRebUr2Z3ZGrV-3" value="需求方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="525" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GThkIN-dRebUr2Z3ZGrV-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=open;endFill=0;endSize=13;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GThkIN-dRebUr2Z3ZGrV-4" target="GThkIN-dRebUr2Z3ZGrV-7" edge="1">
