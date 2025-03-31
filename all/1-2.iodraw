@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="BNY0NMVV9BmjR6hMzoL2" name="研究内容流程图">
+    <mxGraphModel dx="1687" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mx01UnbeaipMsy-zwRZM-1" value="&lt;b&gt;基础技术研究&lt;/b&gt;&lt;br&gt;区块链技术&lt;br&gt;密码学技术&lt;br&gt;分布式存储技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-2" value="&lt;b&gt;系统设计&lt;/b&gt;&lt;br&gt;需求分析&lt;br&gt;架构设计&lt;br&gt;模块设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-3" value="&lt;b&gt;区块链网络&lt;/b&gt;&lt;br&gt;Hyperledger Fabric&lt;br&gt;联盟链设计&lt;br&gt;智能合约开发" style="shape=cylinder3;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-4" value="&lt;b&gt;Web前端系统&lt;/b&gt;&lt;br&gt;UI/UX设计&lt;br&gt;交互接口开发&lt;br&gt;支付与评价模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-5" value="&lt;b&gt;测试与评估&lt;/b&gt;&lt;br&gt;功能测试&lt;br&gt;安全测试&lt;br&gt;性能优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-6" edge="1" parent="1" source="mx01UnbeaipMsy-zwRZM-1" target="mx01UnbeaipMsy-zwRZM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-7" edge="1" parent="1" source="mx01UnbeaipMsy-zwRZM-2" target="mx01UnbeaipMsy-zwRZM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-8" edge="1" parent="1" source="mx01UnbeaipMsy-zwRZM-3" target="mx01UnbeaipMsy-zwRZM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-9" edge="1" parent="1" source="mx01UnbeaipMsy-zwRZM-2" target="mx01UnbeaipMsy-zwRZM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mx01UnbeaipMsy-zwRZM-10" edge="1" parent="1" source="mx01UnbeaipMsy-zwRZM-4" target="mx01UnbeaipMsy-zwRZM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
