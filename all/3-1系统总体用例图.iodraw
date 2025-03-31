@@ -315,6 +315,23 @@
         <mxCell id="fJ0QYadZMjm4ZtiKjU3B-2" value="AI客服" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="880" width="80" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="fJ0QYadZMjm4ZtiKjU3B-3" value="&lt;span style=&quot;color: rgb(214, 214, 221); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(24, 24, 24); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;资产估值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="960" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fJ0QYadZMjm4ZtiKjU3B-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=13;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fJ0QYadZMjm4ZtiKjU3B-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="808" as="sourcePoint" />
+            <mxPoint x="582" y="1053.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ0QYadZMjm4ZtiKjU3B-5" value="&lt;span style=&quot;font-size: 8px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fJ0QYadZMjm4ZtiKjU3B-4">
+          <mxGeometry x="-0.1225" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJ0QYadZMjm4ZtiKjU3B-6" value="验证合同" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="940" width="80" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
