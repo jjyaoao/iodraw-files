@@ -312,8 +312,8 @@
             <mxPoint x="380" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJ0QYadZMjm4ZtiKjU3B-2" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="795" width="80" height="25" as="geometry" />
+        <mxCell id="fJ0QYadZMjm4ZtiKjU3B-2" value="AI客服" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
