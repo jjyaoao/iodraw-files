@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NmbadWSy5pxlyyZu-OdS-29" value="查看账户金额" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NmbadWSy5pxlyyZu-OdS-29" value="资产档案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="670" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-30" value="自动支付" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
