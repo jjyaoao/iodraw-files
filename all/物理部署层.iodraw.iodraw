@@ -40,7 +40,7 @@
         <mxCell id="gg6fhEhsJOzrfGjJkQ3p-12" value="组织3(银行)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="610" y="220" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gg6fhEhsJOzrfGjJkQ3p-13" value="锚节点&lt;br&gt;peer0.org3.togettoyou.com:7051" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gg6fhEhsJOzrfGjJkQ3p-13" value="锚节点&lt;br&gt;peer0.org3.xxx.com:7051" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gg6fhEhsJOzrfGjJkQ3p-14" value="节点&lt;br&gt;peer1.org3.togettoyou.com:7051" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
