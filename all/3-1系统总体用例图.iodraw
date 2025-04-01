@@ -88,7 +88,7 @@
         <mxCell id="NmbadWSy5pxlyyZu-OdS-29" value="资产档案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="670" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NmbadWSy5pxlyyZu-OdS-30" value="自动支付" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NmbadWSy5pxlyyZu-OdS-30" value="交易记录查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="740" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=13;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="NmbadWSy5pxlyyZu-OdS-33" edge="1">
@@ -102,7 +102,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NmbadWSy5pxlyyZu-OdS-33" value="支付押金" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NmbadWSy5pxlyyZu-OdS-33" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="705" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NmbadWSy5pxlyyZu-OdS-34" value="历史溯源" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
