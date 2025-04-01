@@ -56,10 +56,10 @@
           <mxGeometry x="10" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-10" value="违约历史溯源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-11" value="商品信息溯源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bWRC3xteRRZ9MEwaj1_L-12" target="bWRC3xteRRZ9MEwaj1_L-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
