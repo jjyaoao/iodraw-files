@@ -32,16 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-4" value="评论管理功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bWRC3xteRRZ9MEwaj1_L-5" target="bWRC3xteRRZ9MEwaj1_L-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-5" value="提交评论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-6" value="查看评论" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="bWRC3xteRRZ9MEwaj1_L-7" target="bWRC3xteRRZ9MEwaj1_L-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
