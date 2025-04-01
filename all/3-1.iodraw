@@ -56,7 +56,7 @@
           <mxGeometry x="10" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-10" value="违约历史溯源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bWRC3xteRRZ9MEwaj1_L-11" value="商品信息溯源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="560" width="120" height="40" as="geometry" />
