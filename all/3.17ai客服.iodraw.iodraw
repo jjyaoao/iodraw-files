@@ -92,9 +92,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-14" value="返回答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-14" value="5.传入平台数据给AI" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
-            <mxPoint x="699.5699999999999" y="270" as="sourcePoint" />
+            <mxPoint x="690" y="270" as="sourcePoint" />
             <mxPoint x="549.9985714285713" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610.0699999999999" y="270" />
