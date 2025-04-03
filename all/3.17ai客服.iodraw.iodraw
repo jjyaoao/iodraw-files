@@ -26,12 +26,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-6" value="转发请求" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1" source="3Esrd0g-Dq7xkS6v4Q0w-2" target="3Esrd0g-Dq7xkS6v4Q0w-3">
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-6" value="转发请求" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
-            <mxPoint x="260" y="160" as="sourcePoint" />
-            <mxPoint x="380" y="160" as="targetPoint" />
+            <mxPoint x="249.92857142857133" y="200" as="sourcePoint" />
+            <mxPoint x="399.5" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="160" />
+              <mxPoint x="320" y="200" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -56,12 +56,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-9" value="转发答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" source="3Esrd0g-Dq7xkS6v4Q0w-3" target="3Esrd0g-Dq7xkS6v4Q0w-2">
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-9" value="转发答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
-            <mxPoint x="380" y="240" as="sourcePoint" />
-            <mxPoint x="260" y="240" as="targetPoint" />
+            <mxPoint x="399.5" y="290" as="sourcePoint" />
+            <mxPoint x="249.92857142857133" y="290" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="240" />
+              <mxPoint x="320" y="290" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
