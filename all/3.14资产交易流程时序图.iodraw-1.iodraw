@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="资产交易流程时序图" id="nzVxkLAIJ_fl0-M6dJXR">
-    <mxGraphModel dx="819" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-13" value="显示交易结果" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-2" edge="1">
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-13" value="8.显示交易结果" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="360" as="sourcePoint" />
             <mxPoint x="200" y="360" as="targetPoint" />
