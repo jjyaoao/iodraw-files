@@ -68,7 +68,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-11" value="执行交易" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-5" target="0ix6XyoZHy_rFcK2ZVBQ-4" edge="1">
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-11" value="6.执行交易" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-5" target="0ix6XyoZHy_rFcK2ZVBQ-4" edge="1">
           <mxGeometry x="0.001" relative="1" as="geometry">
             <mxPoint x="650" y="280" as="sourcePoint" />
             <mxPoint x="500" y="280" as="targetPoint" />
@@ -78,7 +78,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-12" value="更新交易状态" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-4" target="0ix6XyoZHy_rFcK2ZVBQ-3" edge="1">
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-12" value="7.更新交易状态" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-4" target="0ix6XyoZHy_rFcK2ZVBQ-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="320" as="sourcePoint" />
             <mxPoint x="350" y="320" as="targetPoint" />
