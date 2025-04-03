@@ -33,18 +33,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-4" value="AI服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-8" value="返回答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="3Esrd0g-Dq7xkS6v4Q0w-4">
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-9" value="转发答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="3Esrd0g-Dq7xkS6v4Q0w-3">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
-            <mxPoint x="49.5" y="200" as="sourcePoint" />
-            <mxPoint x="-100.07142857142867" y="200" as="targetPoint" />
+            <mxPoint x="49.5" y="250" as="sourcePoint" />
+            <mxPoint x="-100.07142857142867" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-40" y="200" />
+              <mxPoint x="-30" y="250" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-4" value="AI服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-5" value="1.发送问题" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
@@ -82,22 +82,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-9" value="转发答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
-          <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
-            <mxPoint x="399.5" y="310" as="sourcePoint" />
-            <mxPoint x="249.92857142857133" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="310" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-14" value="5.传入平台数据给AI" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
             <mxPoint x="690" y="270" as="sourcePoint" />
             <mxPoint x="549.9985714285713" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610.0699999999999" y="270" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-8" value="返回答复" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
+            <mxPoint x="549.5" y="300" as="sourcePoint" />
+            <mxPoint x="399.92857142857133" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="300" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
