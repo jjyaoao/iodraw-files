@@ -19,7 +19,7 @@
         <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-5" value="智能合约" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-6" value="浏览资产列表" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-1" target="0ix6XyoZHy_rFcK2ZVBQ-2" edge="1">
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-6" value="1.浏览资产列表" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-1" target="0ix6XyoZHy_rFcK2ZVBQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="120" as="sourcePoint" />
             <mxPoint x="195" y="120" as="targetPoint" />
@@ -29,12 +29,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-7" value="请求资产数据" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-2" target="0ix6XyoZHy_rFcK2ZVBQ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.001" relative="1" as="geometry">
             <mxPoint x="200" y="140" as="sourcePoint" />
             <mxPoint x="350" y="140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="275" y="140" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-8" value="查询资产信息" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-4" edge="1">
@@ -46,13 +47,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-9" value="提交交易申请" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-1" target="0ix6XyoZHy_rFcK2ZVBQ-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-9" value="2.提交交易申请" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-1" target="0ix6XyoZHy_rFcK2ZVBQ-2" edge="1">
+          <mxGeometry x="0.0023" relative="1" as="geometry">
             <mxPoint x="65" y="200" as="sourcePoint" />
             <mxPoint x="195" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="200" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-10" value="创建智能合约" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-5" edge="1">
