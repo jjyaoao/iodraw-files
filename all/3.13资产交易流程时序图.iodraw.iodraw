@@ -1,0 +1,97 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="资产交易流程时序图" id="nzVxkLAIJ_fl0-M6dJXR">
+    <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-2" value="前端界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-3" value="后端服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-4" value="区块链网络" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-5" value="智能合约" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-6" value="浏览资产列表" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-1" target="0ix6XyoZHy_rFcK2ZVBQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="120" as="sourcePoint" />
+            <mxPoint x="195" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-7" value="请求资产数据" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-2" target="0ix6XyoZHy_rFcK2ZVBQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="140" as="sourcePoint" />
+            <mxPoint x="350" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-8" value="查询资产信息" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="160" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-9" value="提交交易申请" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-1" target="0ix6XyoZHy_rFcK2ZVBQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="200" as="sourcePoint" />
+            <mxPoint x="195" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-10" value="创建智能合约" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-11" value="执行交易" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-5" target="0ix6XyoZHy_rFcK2ZVBQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="280" as="sourcePoint" />
+            <mxPoint x="500" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-12" value="更新交易状态" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-4" target="0ix6XyoZHy_rFcK2ZVBQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="350" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ix6XyoZHy_rFcK2ZVBQ-13" value="显示交易结果" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="0ix6XyoZHy_rFcK2ZVBQ-3" target="0ix6XyoZHy_rFcK2ZVBQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
