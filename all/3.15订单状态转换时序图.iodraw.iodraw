@@ -22,10 +22,10 @@
             <mxPoint x="350" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h6J4D0z7mzqb_PiSGRZE-6" value="确认订单" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="h6J4D0z7mzqb_PiSGRZE-1" target="h6J4D0z7mzqb_PiSGRZE-3">
+        <mxCell id="h6J4D0z7mzqb_PiSGRZE-6" value="确认订单" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="160" as="sourcePoint" />
-            <mxPoint x="350" y="160" as="targetPoint" />
+            <mxPoint x="180" y="260" as="sourcePoint" />
+            <mxPoint x="349.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h6J4D0z7mzqb_PiSGRZE-7" value="生成合约" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="h6J4D0z7mzqb_PiSGRZE-3" target="h6J4D0z7mzqb_PiSGRZE-4">
@@ -52,14 +52,14 @@
         </mxCell>
         <mxCell id="h6J4D0z7mzqb_PiSGRZE-10" value="通知完成" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.5" y="299.9975675675676" as="sourcePoint" />
-            <mxPoint x="180" y="299.9975675675676" as="targetPoint" />
+            <mxPoint x="349.5" y="289.9975675675676" as="sourcePoint" />
+            <mxPoint x="180" y="289.9975675675676" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h6J4D0z7mzqb_PiSGRZE-11" value="通知完成" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.5" y="179.99729729729728" as="sourcePoint" />
-            <mxPoint x="180" y="179.99729729729728" as="targetPoint" />
+            <mxPoint x="349.5" y="169.99729729729728" as="sourcePoint" />
+            <mxPoint x="180" y="169.99729729729728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
