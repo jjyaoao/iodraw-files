@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h6J4D0z7mzqb_PiSGRZE-9" value="更新状态" style="html=1;verticalAlign=bottom;endArrow=block;" parent="h6J4D0z7mzqb_PiSGRZE-3" edge="1">
+        <mxCell id="h6J4D0z7mzqb_PiSGRZE-9" value="4.更新状态" style="html=1;verticalAlign=bottom;endArrow=block;" parent="h6J4D0z7mzqb_PiSGRZE-3" edge="1">
           <mxGeometry x="-0.0034" relative="1" as="geometry">
             <mxPoint x="199.5" y="180" as="sourcePoint" />
             <mxPoint x="50.02380952380963" y="180" as="targetPoint" />
@@ -39,10 +39,11 @@
             <mxPoint x="350" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h6J4D0z7mzqb_PiSGRZE-6" value="确认订单" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="h6J4D0z7mzqb_PiSGRZE-6" value="5.确认订单" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry x="0.0009" relative="1" as="geometry">
             <mxPoint x="180" y="269.76" as="sourcePoint" />
             <mxPoint x="349.5" y="269.76" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h6J4D0z7mzqb_PiSGRZE-8" value="3.执行合约" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="h6J4D0z7mzqb_PiSGRZE-4" target="h6J4D0z7mzqb_PiSGRZE-4" edge="1">
@@ -55,16 +56,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h6J4D0z7mzqb_PiSGRZE-10" value="通知完成" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+        <mxCell id="h6J4D0z7mzqb_PiSGRZE-10" value="6.通知完成" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349.5" y="289.9975675675676" as="sourcePoint" />
             <mxPoint x="180" y="289.9975675675676" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h6J4D0z7mzqb_PiSGRZE-11" value="通知完成" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="h6J4D0z7mzqb_PiSGRZE-11" value="7.通知完成" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry x="0.0009" relative="1" as="geometry">
             <mxPoint x="349.5" y="169.99729729729728" as="sourcePoint" />
             <mxPoint x="180" y="169.99729729729728" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
