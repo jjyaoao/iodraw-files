@@ -33,10 +33,20 @@
         <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-3" value="主系统服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="100" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-7" value="调用AI服务" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="3Esrd0g-Dq7xkS6v4Q0w-3">
+          <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
+            <mxPoint x="49.92857142857133" y="140" as="sourcePoint" />
+            <mxPoint x="199.5" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-4" value="AI服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-5" value="发送问题" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-5" value="1.发送问题" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
             <mxPoint x="109.92857142857144" y="180" as="sourcePoint" />
             <mxPoint x="249.5" y="180" as="targetPoint" />
@@ -46,22 +56,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-6" value="转发请求" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
-          <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
+        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-6" value="2.转发请求" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0678" y="10" relative="1" as="geometry">
             <mxPoint x="249.92857142857133" y="200" as="sourcePoint" />
             <mxPoint x="399.5" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="200" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3Esrd0g-Dq7xkS6v4Q0w-7" value="调用AI服务" style="endArrow=block;endSize=16;endFill=0;html=1;" edge="1" parent="1" source="3Esrd0g-Dq7xkS6v4Q0w-3" target="3Esrd0g-Dq7xkS6v4Q0w-4">
-          <mxGeometry x="-0.0667" y="10" relative="1" as="geometry">
-            <mxPoint x="400" y="180" as="sourcePoint" />
-            <mxPoint x="520" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="180" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
