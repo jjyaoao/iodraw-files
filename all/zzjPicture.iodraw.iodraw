@@ -167,7 +167,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oBYwDzyQhttwUE919pqD-1" value="建成年代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBYwDzyQhttwUE919pqD-2" value="人口密度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
