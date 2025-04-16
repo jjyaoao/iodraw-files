@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-3" value="技术防线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-3" value="技术路线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-4" value="研究区域划定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
