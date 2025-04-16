@@ -154,8 +154,14 @@
             <mxPoint x="200" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-40" value="ArcGIS分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-40" value="景观格局指数" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="410" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-41" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="330" as="sourcePoint" />
+            <mxPoint x="210" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
