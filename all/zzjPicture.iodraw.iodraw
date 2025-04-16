@@ -140,8 +140,8 @@
             <mxPoint x="540" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBYwDzyQhttwUE919pqD-4" value="乔木、灌木、草本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="60" height="40" as="geometry" />
+        <mxCell id="oBYwDzyQhttwUE919pqD-4" value="乔木&lt;div&gt;灌木&lt;/div&gt;&lt;div&gt;草本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oBYwDzyQhttwUE919pqD-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" target="oBYwDzyQhttwUE919pqD-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
