@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="170" width="630" height="260" as="geometry" />
         </mxCell>
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-3" value="技术路线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="160" height="40" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-4" value="研究区域概述" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-5" value="空间图像采集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-5" value="遥感图像获取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-6" value="网络标准设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
