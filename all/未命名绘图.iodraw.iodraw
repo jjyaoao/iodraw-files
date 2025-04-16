@@ -96,7 +96,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="450" />
-              <mxPoint x="290" y="450" />
+              <mxPoint x="290" y="470" />
               <mxPoint x="400" y="450" />
             </Array>
             <mxPoint x="200" y="430" as="sourcePoint" />
@@ -153,6 +153,9 @@
             <mxPoint y="530" as="sourcePoint" />
             <mxPoint x="200" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-40" value="ArcGIS分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
