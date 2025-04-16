@@ -16,7 +16,7 @@
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-5" value="遥感图像获取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-6" value="网络标准设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="7CT7p5M1kXHqwqqAJ0t8-6" value="物种名录统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7CT7p5M1kXHqwqqAJ0t8-7" value="社会经济因素获取" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -171,6 +171,12 @@
         </mxCell>
         <mxCell id="oBYwDzyQhttwUE919pqD-2" value="人口密度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBYwDzyQhttwUE919pqD-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oBYwDzyQhttwUE919pqD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="540" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
