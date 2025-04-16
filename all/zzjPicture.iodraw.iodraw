@@ -154,7 +154,7 @@
             <mxPoint x="450" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBYwDzyQhttwUE919pqD-7" value="浇水&lt;div&gt;施肥&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="oBYwDzyQhttwUE919pqD-7" value="浇水频率&lt;div&gt;施肥频率&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oBYwDzyQhttwUE919pqD-8" value="维护频率" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
