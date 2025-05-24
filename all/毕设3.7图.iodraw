@@ -19,9 +19,9 @@
         <mxCell id="KtPCZlledMtvl5OqmrG_-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;大文件?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="170" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KtPCZlledMtvl5OqmrG_-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="KtPCZlledMtvl5OqmrG_-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zt0O25JRjDIYqKakunf8-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="170" y="230" as="sourcePoint" />
             <mxPoint x="180" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
