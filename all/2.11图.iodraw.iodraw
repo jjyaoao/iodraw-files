@@ -1,9 +1,154 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="8WcSFzV32Y4lgdwJw5K8">
-    <mxGraphModel dx="1185" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="%_Era%" _Era="符号主义时期 (1950s-1970s)" _Core_Ideology_School_of_Thought="符号主义 (Symbolism)" _Key_Agent_Project_Technology="逻辑理论家 (Logic Theorist, 1956)" _Core_Contribution="证明了机器可以执行形式化的符号推理任务，是智能体“思考”能力的早期探索 [1, 2, 3, 4]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-64">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="880" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="通用问题求解器 (GPS, 1959)" _Core_Contribution="引入“手段-目的分析”，为目标驱动的智能体规划奠定理论基础 [5, 6, 1, 3]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-65">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="950" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="机器人Shakey (1966-1972)" _Core_Contribution="第一个能感知、推理并与物理世界互动的移动机器人，是具身智能体的先驱 [7, 2, 8]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-66">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1030" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="专家系统与联结主义复苏 (1980s)" _Core_Ideology_School_of_Thought="符号主义 (Symbolism)" _Key_Agent_Project_Technology="专家系统 (MYCIN, XCON)" _Core_Contribution="将人类专家的知识编码为规则，使智能体能在特定领域进行决策，是知识驱动型智能体的代表 [9, 7, 3, 10]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-67">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1110" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="联结主义 (Connectionism)" _Key_Agent_Project_Technology="反向传播算法普及" _Core_Contribution="为训练多层神经网络提供了可能，是后续智能体感知和学习能力的基础 [10, 11, 12]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-68">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1180" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="第二次寒冬与新起点 (1990s-2000s)" _Core_Ideology_School_of_Thought="符号主义 (Symbolism)" _Key_Agent_Project_Technology="深蓝 (Deep Blue, 1997)" _Core_Contribution="符号主义方法的巅峰，通过强大的搜索和评估能力在封闭规则环境中击败人类 [7, 5, 13, 2]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-69">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1260" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="联结主义 (Connectionism)" _Key_Agent_Project_Technology="LeNet-5 (1998)" _Core_Contribution="开创性的卷积神经网络，实现了从原始像素中自动学习特征，是现代智能体感知系统的基石 [14, 15, 16, 17, 18, 19]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-70">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1330" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="行为主义 (RL)" _Key_Agent_Project_Technology="TD-Gammon (1992)" _Core_Contribution="首次将神经网络与强化学习成功结合，证明了智能体可以通过自博弈达到顶尖水平 [20, 21, 22]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-71">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1410" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="Q-Learning (1989)" _Core_Contribution="提出了一种无模型的强化学习算法，极大地提高了智能体从互动中学习策略的实用性 [20, 23]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-72">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1490" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="深度学习革命 (2010s)" _Core_Ideology_School_of_Thought="联结主义 (Connectionism) &amp; 行为主义 (RL)" _Key_Agent_Project_Technology="AlexNet (2012)" _Core_Contribution="强大的图像识别能力为智能体提供了超越人类的感知能力，引爆深度学习革命 [13, 24, 12]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-73">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1570" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="DQN (2013)" _Core_Contribution="将深度学习与强化学习结合，使智能体能直接从高维感官输入（如游戏画面）中学习控制策略。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-74">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1640" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="AlphaGo (2016)" _Core_Contribution="融合深度学习（价值/策略网络）与符号式搜索（蒙特卡洛树搜索），成为混合式智能体的典范。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-75">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1720" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="Transformer (2017)" _Core_Contribution="提出自注意力机制，成为大语言模型的架构基础，为智能体提供了前所未有的语言理解和生成能力 [25, 26, 13, 27, 28, 29, 30]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-76">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1800" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="大模型时代 (2020-2022)" _Core_Ideology_School_of_Thought="大语言模型驱动 (LLM-Driven)" _Key_Agent_Project_Technology="GPT-3 (2020)" _Core_Contribution="巨大的模型规模带来了强大的少样本学习和涌现能力，展示了其作为通用“大脑”驱动智能体的潜力。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-77">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1880" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="" _Core_Ideology_School_of_Thought="" _Key_Agent_Project_Technology="思维链 (CoT, 2022)" _Core_Contribution="通过引导LLM生成中间推理步骤，显著提升了其在复杂问题上的规划和解决能力 [31, 32, 33, 34]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-78">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1950" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="智能体时代 (2023至今)" _Core_Ideology_School_of_Thought="智能体架构范式 (Agentic Paradigm)：以LLM为核心“大脑”，连接记忆、规划和工具使用模块，形成标准的“感知-推理-行动”循环。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-79">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2030" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="多智能体系统 (Multi-Agent Systems" _Core_Ideology_School_of_Thought=" MAS)：多个拥有不同角色和能力的智能体协同工作，通过分工、协作和互相验证来解决单一智能体难以完成的复杂任务 [35" _Key_Agent_Project_Technology=" 36]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-80">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2100" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="神经-符号结合 (Neuro-Symbolic Integration)：在实践层面实现了两大范式的深度融合。联结主义的LLM（神经）被用于处理和生成语言（符号），并调用外部工具（符号化行动），实现了学习与推理能力的结合。,框架： ReAct (2022)" _Core_Ideology_School_of_Thought=" LangChain" _Key_Agent_Project_Technology=" LangGraph" _Core_Contribution=" crewAI" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-81">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2170" width="1260" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="项目/应用：" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-82">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2240" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="Auto-GPT (2023) [37" _Core_Ideology_School_of_Thought=" 11]" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-83">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2310" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="BabyAGI (2023) [17" _Core_Ideology_School_of_Thought=" 38]" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-84">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2380" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="Voyager (2023) [39" _Core_Ideology_School_of_Thought=" 40]" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-85">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2450" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="ChatGPT Agent (Operator) (2025) [41" _Core_Ideology_School_of_Thought=" 42]" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-86">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2520" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="Google Big Sleep (2024-2025) [43" _Core_Ideology_School_of_Thought=" 44],ReAct：确立了“推理”与“行动”（工具使用）交错进行的认知循环，成为现代LLM智能体的基础框架 [23" _Key_Agent_Project_Technology=" 45" _Core_Contribution=" 28" undefined=" 10]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-87">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2590" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="Auto-GPT / BabyAGI (2023)：作为首批现象级的自主智能体，向公众展示了AI能够自主分解高级目标并循环执行任务的能力，引爆了智能体领域的开发热潮 [37" _Core_Ideology_School_of_Thought=" 11" _Key_Agent_Project_Technology=" 17]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-88">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2660" width="860" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="Voyager (2023)：在《我的世界》这个开放世界中，展示了智能体如何通过自主探索、自动生成课程和构建技能库来实现“终身学习”，不断扩展自身能力边界 [39" _Core_Ideology_School_of_Thought=" 40" _Key_Agent_Project_Technology=" 46]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-89">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2730" width="870" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="ChatGPT Agent (Operator) (2025)：将强大的智能体能力产品化，使其能够代表用户在真实网页环境中执行点击、输入和导航等操作，以完成预订、研究和数据录入等真实世界任务 [41" _Core_Ideology_School_of_Thought=" 47" _Key_Agent_Project_Technology=" 42" _Core_Contribution=" 48]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-90">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2800" width="990" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="Google Big Sleep (2024-2025)：展示了智能体在网络安全等高风险专业领域的巨大潜力，它能够自主发现软件中的未知漏洞，甚至成功预测并阻止了即将发生的网络攻击 [43" _Core_Ideology_School_of_Thought=" 44" _Key_Agent_Project_Technology=" 49]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-91">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2870" width="940" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%_Era%" _Era="crewAI等框架：为构建和协调多智能体协作提供了标准化工具，开发者可以为不同智能体定义角色、任务和协作流程（如串行或并行），从而高效地构建复杂的自动化工作流 [35" _Core_Ideology_School_of_Thought=" 36" _Key_Agent_Project_Technology=" 50" _Core_Contribution=" 51" undefined=" 53]。" placeholders="1" id="3I5nn_ljk8Dr7YUawUtO-92">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="2940" width="960" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
