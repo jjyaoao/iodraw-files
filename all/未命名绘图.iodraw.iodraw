@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="80" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ty6kzGFPjn1JhoRk_kAp-3" value="环境" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;fontColor=#FFFFFF;strokeColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="180" height="70" as="geometry" />
+          <mxGeometry x="240" y="410" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ty6kzGFPjn1JhoRk_kAp-4" value="行动&lt;br&gt;A&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="245" width="60" height="40" as="geometry" />
@@ -88,7 +88,7 @@
             <mxPoint x="240" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=4;strokeColor=#7f7f7f;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="470.47" as="targetPoint" />
             <mxPoint x="240" y="470" as="sourcePoint" />
