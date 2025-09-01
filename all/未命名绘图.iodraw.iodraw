@@ -1,0 +1,174 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="8WcSFzV32Y4lgdwJw5K8">
+    <mxGraphModel dx="1728" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="svQqd17xg3Skx8iaQysC-1" value="" style="shape=table;startSize=50;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="1600" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="50" width="1600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-3" value="时期 (Era)" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-2">
+          <mxGeometry width="180" height="50" as="geometry">
+            <mxRectangle width="180" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-4" value="核心范式 &amp;amp; 思想 (Core Paradigm &amp;amp; Ideology)" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-2">
+          <mxGeometry x="180" width="400" height="50" as="geometry">
+            <mxRectangle width="400" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-5" value="关键人物 &amp;amp; 机构 (Key People &amp;amp; Institutions)" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-2">
+          <mxGeometry x="580" width="420" height="50" as="geometry">
+            <mxRectangle width="420" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-6" value="里程碑项目 &amp;amp; 技术 (Milestone Projects &amp;amp; Technology)" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f5f5f5;top=0;left=0;bottom=0;right=0;align=center;verticalAlign=middle;fontStyle=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-2">
+          <mxGeometry x="1000" width="600" height="50" as="geometry">
+            <mxRectangle width="600" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="100" width="1600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-8" value="&lt;b&gt;奠基期 (1950s-1970s)&lt;/b&gt;&lt;br&gt;符号主义的黎明" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-7">
+          <mxGeometry width="180" height="150" as="geometry">
+            <mxRectangle width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-9" value="&lt;b&gt;符号主义 (GOFAI) 主导&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;智能被视为符号的逻辑操纵。&lt;/li&gt;&lt;li&gt;聚焦于推理、规划和问题求解。&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-7">
+          <mxGeometry x="180" width="400" height="150" as="geometry">
+            <mxRectangle width="400" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-10" value="&lt;div&gt;&lt;b&gt;先驱:&lt;/b&gt; 阿兰·图灵, 约翰·麦卡锡, 司马贺 &amp;amp; 纽厄尔, 马文·明斯基&lt;/div&gt;&lt;div&gt;&lt;b&gt;机构:&lt;/b&gt; 达特茅斯学院, MIT, 斯坦福研究院&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-7">
+          <mxGeometry x="580" width="420" height="150" as="geometry">
+            <mxRectangle width="420" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-11" value="&lt;div&gt;&lt;b&gt;理论:&lt;/b&gt; 图灵测试, 物理符号系统假说&lt;/div&gt;&lt;div&gt;&lt;b&gt;项目:&lt;/b&gt; 逻辑理论家, SHRDLU, LISP语言&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-7">
+          <mxGeometry x="1000" width="600" height="150" as="geometry">
+            <mxRectangle width="600" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="250" width="1600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-13" value="&lt;b&gt;黄金时代与首次寒冬 (1980s)&lt;/b&gt;&lt;br&gt;专家系统与联结主义复苏" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-12">
+          <mxGeometry width="180" height="150" as="geometry">
+            <mxRectangle width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-14" value="&lt;b&gt;符号主义商业化&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;专家系统达到顶峰，但也暴露了知识获取瓶颈。&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;联结主义复苏&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;反向传播算法为神经网络训练提供了可能。&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-12">
+          <mxGeometry x="180" width="400" height="150" as="geometry">
+            <mxRectangle width="400" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-15" value="&lt;div&gt;&lt;b&gt;符号主义:&lt;/b&gt; 爱德华·费根鲍姆, 道格拉斯·莱纳特&lt;/div&gt;&lt;div&gt;&lt;b&gt;联结主义:&lt;/b&gt; 杰弗里·辛顿&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-12">
+          <mxGeometry x="580" width="420" height="150" as="geometry">
+            <mxRectangle width="420" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-16" value="&lt;div&gt;&lt;b&gt;符号主义:&lt;/b&gt; 专家系统 (MYCIN, XCON), Cyc项目&lt;/div&gt;&lt;div&gt;&lt;b&gt;联结主义:&lt;/b&gt; 反向传播算法的推广&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-12">
+          <mxGeometry x="1000" width="600" height="150" as="geometry">
+            <mxRectangle width="600" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="400" width="1600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-18" value="&lt;b&gt;第二次寒冬与新起点 (1990s-2000s)&lt;/b&gt;&lt;br&gt;统计学习与多智能体" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-17">
+          <mxGeometry width="180" height="150" as="geometry">
+            <mxRectangle width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-19" value="&lt;b&gt;统计机器学习兴起&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;AI重心从规则转向从数据中学习。&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;多智能体系统 (MAS) 研究&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;关注分布式、协作式智能 [1, 2]。&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-17">
+          <mxGeometry x="180" width="400" height="150" as="geometry">
+            <mxRectangle width="400" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-20" value="&lt;div&gt;&lt;b&gt;联结主义:&lt;/b&gt; “深度学习三巨头” (辛顿, 勒丘恩, 本吉奥)&lt;/div&gt;&lt;div&gt;&lt;b&gt;MAS:&lt;/b&gt; Michael Wooldridge&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-17">
+          <mxGeometry x="580" width="420" height="150" as="geometry">
+            <mxRectangle width="420" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-21" value="&lt;div&gt;&lt;b&gt;项目:&lt;/b&gt; 深蓝 (Deep Blue) 战胜卡斯帕罗夫&lt;/div&gt;&lt;div&gt;&lt;b&gt;理论:&lt;/b&gt; BDI (Belief-Desire-Intention) 模型, 统计学习理论&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-17">
+          <mxGeometry x="1000" width="600" height="150" as="geometry">
+            <mxRectangle width="600" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="550" width="1600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-23" value="&lt;b&gt;深度学习革命 (2010s)&lt;/b&gt;&lt;br&gt;神经网络的胜利" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-22">
+          <mxGeometry width="180" height="150" as="geometry">
+            <mxRectangle width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-24" value="&lt;b&gt;深度学习成为主导&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;大数据、GPU和新算法共同推动了联结主义的全面胜利。&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;强化学习&lt;/b&gt;与深度学习结合，解决复杂决策问题。" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-22">
+          <mxGeometry x="180" width="400" height="150" as="geometry">
+            <mxRectangle width="400" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-25" value="&lt;div&gt;&lt;b&gt;机构:&lt;/b&gt; DeepMind (David Silver), Google Brain, OpenAI&lt;/div&gt;&lt;div&gt;&lt;b&gt;人物:&lt;/b&gt; “深度学习三巨头”&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-22">
+          <mxGeometry x="580" width="420" height="150" as="geometry">
+            <mxRectangle width="420" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-26" value="&lt;div&gt;&lt;b&gt;技术:&lt;/b&gt; Transformer架构 (2017)&lt;/div&gt;&lt;div&gt;&lt;b&gt;项目:&lt;/b&gt; AlexNet (2012), AlphaGo (2016), GPT-1/2&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-22">
+          <mxGeometry x="1000" width="600" height="150" as="geometry">
+            <mxRectangle width="600" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="700" width="1600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-28" value="&lt;b&gt;大模型时代 (2020-2022)&lt;/b&gt;&lt;br&gt;语言的涌现能力" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-27">
+          <mxGeometry width="180" height="150" as="geometry">
+            <mxRectangle width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-29" value="&lt;b&gt;大规模预训练模型 (LLM)&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;模型规模的扩大带来了“涌现能力”，如上下文学习和思维链推理。&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-27">
+          <mxGeometry x="180" width="400" height="150" as="geometry">
+            <mxRectangle width="400" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-30" value="&lt;b&gt;机构:&lt;/b&gt; OpenAI, Google, DeepMind, Anthropic" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-27">
+          <mxGeometry x="580" width="420" height="150" as="geometry">
+            <mxRectangle width="420" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-31" value="&lt;div&gt;&lt;b&gt;模型:&lt;/b&gt; GPT-3 (2020), LaMDA&lt;/div&gt;&lt;div&gt;&lt;b&gt;技术:&lt;/b&gt; 思维链 (Chain-of-Thought) 提示法 (2022)&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#ffffff;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-27">
+          <mxGeometry x="1000" width="600" height="150" as="geometry">
+            <mxRectangle width="600" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;collapsible=0;nonMovable=0;part=1;fillColor=none;resizeHeight=1;" vertex="1" parent="svQqd17xg3Skx8iaQysC-1">
+          <mxGeometry y="850" width="1600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-33" value="&lt;b&gt;智能体时代 (2023-2025)&lt;/b&gt;&lt;br&gt;架构与应用的成熟" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-32">
+          <mxGeometry width="180" height="250" as="geometry">
+            <mxRectangle width="180" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-34" value="&lt;b&gt;智能体架构成为标准&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;LLM作为核心推理引擎，结合规划、记忆和工具使用。&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;多智能体系统 (MAS) 成为主流&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;协作式智能体解决复杂问题 [3, 4, 5]。&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;神经-符号融合&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;margin-left: 20px;&quot;&gt;&lt;li&gt;结合了神经网络的学习能力和符号系统的推理能力 [6, 7, 8]。&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-32">
+          <mxGeometry x="180" width="400" height="250" as="geometry">
+            <mxRectangle width="400" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-35" value="&lt;div&gt;&lt;b&gt;商业机构:&lt;/b&gt; OpenAI, Google DeepMind, Meta, Anthropic, Microsoft&lt;/div&gt;&lt;div&gt;&lt;b&gt;开源社区:&lt;/b&gt; LangChain, LlamaIndex, crewAI&lt;/div&gt;&lt;div&gt;&lt;b&gt;研究者:&lt;/b&gt; H. Xiong et al.&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-32">
+          <mxGeometry x="580" width="420" height="250" as="geometry">
+            <mxRectangle width="420" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svQqd17xg3Skx8iaQysC-36" value="&lt;div&gt;&lt;b&gt;架构:&lt;/b&gt; ReAct, 思维树 (ToT)&lt;/div&gt;&lt;div&gt;&lt;b&gt;框架:&lt;/b&gt; LangChain, LangGraph&lt;/div&gt;&lt;div&gt;&lt;b&gt;项目:&lt;/b&gt; Auto-GPT, Voyager, &lt;b&gt;GPT-5&lt;/b&gt; [9], &lt;b&gt;ChatGPT agent (Operator)&lt;/b&gt; [10, 11], &lt;b&gt;Google Big Sleep&lt;/b&gt; [12]&lt;/div&gt;" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#f8f9fa;top=0;left=0;bottom=0;right=0;align=left;verticalAlign=top;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="svQqd17xg3Skx8iaQysC-32">
+          <mxGeometry x="1000" width="600" height="250" as="geometry">
+            <mxRectangle width="600" height="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
