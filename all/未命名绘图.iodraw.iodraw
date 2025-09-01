@@ -35,14 +35,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-10" style="edgeStyle=none;curved=0;rounded=1;endArrow=classic;html=1;strokeWidth=4;strokeColor=#CCCCCC;endFill=0;exitX=-0.002;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ty6kzGFPjn1JhoRk_kAp-3" target="Ty6kzGFPjn1JhoRk_kAp-2">
+        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-10" style="edgeStyle=none;curved=0;rounded=1;endArrow=classic;html=1;strokeWidth=4;strokeColor=#CCCCCC;endFill=0;entryX=0.01;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ty6kzGFPjn1JhoRk_kAp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="470" />
               <mxPoint x="50" y="470" />
-              <mxPoint x="50" y="110" />
+              <mxPoint x="50" y="100" />
               <mxPoint x="160" y="110" />
             </Array>
+            <mxPoint x="240" y="470" as="sourcePoint" />
             <mxPoint x="240" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
