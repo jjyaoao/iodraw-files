@@ -22,6 +22,9 @@
         <mxCell id="PPr_iPTepZj7v7Icy2Sq-3" value="Environment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="298.75" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EvY_VGx1oXY8NR-0xlB3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PPr_iPTepZj7v7Icy2Sq-4" target="PPr_iPTepZj7v7Icy2Sq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PPr_iPTepZj7v7Icy2Sq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="330" width="80" height="45" as="geometry" />
         </mxCell>
@@ -61,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="410" width="90" height="30" as="geometry" />
+          <mxGeometry x="565" y="410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
