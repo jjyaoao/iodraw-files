@@ -13,6 +13,9 @@
         <mxCell id="sc7m3i2O8EVfSgF5kuFy-6" value="PerceptionImpl" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="190" y="510" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sc7m3i2O8EVfSgF5kuFy-7" value="PerceptionImpl" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
