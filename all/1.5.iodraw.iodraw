@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#151515;" vertex="1" parent="1">
+        <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Observation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PPr_iPTepZj7v7Icy2Sq-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Action&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
