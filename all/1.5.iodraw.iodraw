@@ -60,8 +60,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="325" width="60" height="30" as="geometry" />
+        <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
