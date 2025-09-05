@@ -55,7 +55,7 @@
         <mxCell id="PPr_iPTepZj7v7Icy2Sq-19" value="Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvY_VGx1oXY8NR-0xlB3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPr_iPTepZj7v7Icy2Sq-14" target="PPr_iPTepZj7v7Icy2Sq-4">
+        <mxCell id="EvY_VGx1oXY8NR-0xlB3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#151515;" edge="1" parent="1" source="PPr_iPTepZj7v7Icy2Sq-14" target="PPr_iPTepZj7v7Icy2Sq-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="715" y="440" />
@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#151515;" vertex="1" parent="1">
           <mxGeometry x="565" y="410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
