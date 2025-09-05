@@ -63,7 +63,7 @@
         <mxCell id="EvY_VGx1oXY8NR-0xlB3-2" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#151515;" vertex="1" parent="1">
           <mxGeometry x="565" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PPr_iPTepZj7v7Icy2Sq-19" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Action&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="PPr_iPTepZj7v7Icy2Sq-19" value="&lt;font color=&quot;#682c2c&quot;&gt;Action&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
