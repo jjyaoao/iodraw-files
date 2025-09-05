@@ -31,8 +31,11 @@
         <mxCell id="PPr_iPTepZj7v7Icy2Sq-11" value="Thought" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="330" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PPr_iPTepZj7v7Icy2Sq-12" value="Thought" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="340" width="70" height="30" as="geometry" />
+        <mxCell id="PPr_iPTepZj7v7Icy2Sq-12" value="Planning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PPr_iPTepZj7v7Icy2Sq-13" value="Planning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="325" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
