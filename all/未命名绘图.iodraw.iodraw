@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="590" y="300" width="140" height="210" as="geometry" />
+          <mxGeometry x="550" y="340" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="368" y="450" width="46" height="30" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-12" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="C9KWzMB5ZwTVvuGiDPKQ-10">
           <mxGeometry x="8" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-13" value="Symbols" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="328" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
