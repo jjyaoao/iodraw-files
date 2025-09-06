@@ -34,8 +34,8 @@
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-12" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="C9KWzMB5ZwTVvuGiDPKQ-10">
           <mxGeometry x="8" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-13" value="Symbols" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="328" width="70" height="30" as="geometry" />
+        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Symbols&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351" y="340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
