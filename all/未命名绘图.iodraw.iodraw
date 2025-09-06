@@ -49,19 +49,13 @@
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-21" value="(C OR ( A AND B))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="C9KWzMB5ZwTVvuGiDPKQ-19">
           <mxGeometry x="5.001356041724364" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C9KWzMB5ZwTVvuGiDPKQ-16" target="C9KWzMB5ZwTVvuGiDPKQ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="460" width="65.71428571428571" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-17" value="(A AND B)" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="460" width="52.85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C9KWzMB5ZwTVvuGiDPKQ-8" target="C9KWzMB5ZwTVvuGiDPKQ-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C9KWzMB5ZwTVvuGiDPKQ-11" target="C9KWzMB5ZwTVvuGiDPKQ-17">
+        <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C9KWzMB5ZwTVvuGiDPKQ-8" target="C9KWzMB5ZwTVvuGiDPKQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
