@@ -1,13 +1,13 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="j4Gw1N0rCd1yEyYyDlkB">
-    <mxGraphModel dx="399" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="277" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oYqFt22QjGcMkdMR6B5T-1" value="最高目标：确定致病菌种类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="280" y="100" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4MsyTR-vq92FZSJIRfIx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="4MsyTR-vq92FZSJIRfIx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.197;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.744;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oYqFt22QjGcMkdMR6B5T-3" target="oYqFt22QjGcMkdMR6B5T-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="250" as="targetPoint" />
             <mxPoint x="330" y="230" as="sourcePoint" />
@@ -31,6 +31,12 @@
         <mxCell id="4MsyTR-vq92FZSJIRfIx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oYqFt22QjGcMkdMR6B5T-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MsyTR-vq92FZSJIRfIx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.197;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.744;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="260" as="targetPoint" />
+            <mxPoint x="309" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
