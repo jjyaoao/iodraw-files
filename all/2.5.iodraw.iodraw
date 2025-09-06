@@ -1,14 +1,20 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="4dlT_sqc89-z5jbeW0oz">
-    <mxGraphModel dx="988" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GwwRib45yQwFTEBzzlmp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwwRib45yQwFTEBzzlmp-1" target="GwwRib45yQwFTEBzzlmp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-1" value="BUILD-TOWER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-2" value="ADD-BLOCK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GwwRib45yQwFTEBzzlmp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwwRib45yQwFTEBzzlmp-3" target="GwwRib45yQwFTEBzzlmp-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-3" value="BUILDER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="450" width="120" height="40" as="geometry" />
@@ -27,6 +33,9 @@
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-8" value="GRASP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="630" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GwwRib45yQwFTEBzzlmp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.917;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GwwRib45yQwFTEBzzlmp-2" target="GwwRib45yQwFTEBzzlmp-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
