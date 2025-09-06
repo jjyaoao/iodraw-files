@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oYqFt22QjGcMkdMR6B5T-1" value="最高目标：确定致病菌种类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="170" height="40" as="geometry" />
+          <mxGeometry x="280" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oYqFt22QjGcMkdMR6B5T-3" value="最高目标：确定致病菌种类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
