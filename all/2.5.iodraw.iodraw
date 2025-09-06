@@ -14,19 +14,19 @@
           <mxGeometry x="330" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-4" value="FIND-BLOCK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="565" width="120" height="40" as="geometry" />
+          <mxGeometry x="250" y="565" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-5" value="GET-BLOCK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="565" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-6" value="SEE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="630" width="50" height="40" as="geometry" />
+          <mxGeometry x="390" y="630" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GwwRib45yQwFTEBzzlmp-7" value="REACH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="630" width="50" height="40" as="geometry" />
+          <mxGeometry x="450" y="630" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GwwRib45yQwFTEBzzlmp-8" value="REACH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="630" width="50" height="40" as="geometry" />
+        <mxCell id="GwwRib45yQwFTEBzzlmp-8" value="GRASP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
