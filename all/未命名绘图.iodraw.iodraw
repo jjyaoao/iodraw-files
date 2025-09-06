@@ -47,13 +47,13 @@
           <mxGeometry x="-7.145714285714284" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="770" y="460" width="140" height="30" as="geometry" />
+          <mxGeometry x="750" y="460" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="C9KWzMB5ZwTVvuGiDPKQ-19">
           <mxGeometry width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C9KWzMB5ZwTVvuGiDPKQ-21" value="(C OR ( A AND B))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="C9KWzMB5ZwTVvuGiDPKQ-19">
-          <mxGeometry x="-40.928643958275636" width="120" height="30" as="geometry" />
+          <mxGeometry x="5.001356041724364" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
