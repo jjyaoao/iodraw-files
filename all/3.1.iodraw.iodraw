@@ -19,10 +19,11 @@
         <mxCell id="Vq9SddEUwJdy-gSfHIz8-4" value="W&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;i-1&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vq9SddEUwJdy-gSfHIz8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vq9SddEUwJdy-gSfHIz8-5" target="Vq9SddEUwJdy-gSfHIz8-3">
+        <mxCell id="Vq9SddEUwJdy-gSfHIz8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=default;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vq9SddEUwJdy-gSfHIz8-5" target="Vq9SddEUwJdy-gSfHIz8-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="280" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="180" y="346" />
               <mxPoint x="180" y="330" />
               <mxPoint x="280" y="330" />
             </Array>
