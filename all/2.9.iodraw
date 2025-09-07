@@ -61,8 +61,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Learning &amp;amp; Retrieval&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="765" width="110" height="30" as="geometry" />
+        <mxCell id="Tkm391LF6GFXdSONnDR4-17" value="&lt;font color=&quot;#4b98cb&quot; style=&quot;font-size: 10px;&quot;&gt;Learning &amp;amp; Retrieval&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="765" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
