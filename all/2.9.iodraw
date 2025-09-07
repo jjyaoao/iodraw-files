@@ -7,7 +7,7 @@
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-1" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Environment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
           <mxGeometry x="80" y="620" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sUY-Zy0f5F4GO56hMFCW-2" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Perceptual Memory&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
+        <mxCell id="sUY-Zy0f5F4GO56hMFCW-2" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Perceptual Memory&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;(MultiModal)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-3" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Short-term Memory&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;(Context)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
@@ -25,11 +25,8 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Planning Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="600" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Planning Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="630" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-5" value="&lt;span style=&quot;color: rgb(241, 243, 244); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;(MultiModal)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="730" width="100" height="40" as="geometry" />
+        <mxCell id="Tkm391LF6GFXdSONnDR4-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Reflection,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Self-critics,&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;CoT, ToT, GoT....&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="615" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
