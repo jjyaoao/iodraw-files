@@ -49,6 +49,9 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-14" value="&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;Large Language Model&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;(LLM)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="317.5" y="740" width="145" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tkm391LF6GFXdSONnDR4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tkm391LF6GFXdSONnDR4-14" target="Tkm391LF6GFXdSONnDR4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
