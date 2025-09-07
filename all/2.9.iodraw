@@ -19,8 +19,11 @@
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-8" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Sensors&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;（Text,Image, etc）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
           <mxGeometry x="80" y="880" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-1" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Planning Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="330" y="570" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tkm391LF6GFXdSONnDR4-2" value="&lt;span style=&quot;color: rgb(241, 243, 244); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; background-color: rgb(5, 5, 5);&quot;&gt;Planning Module&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
