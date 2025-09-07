@@ -16,8 +16,8 @@
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-4" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Long-term Memory&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;(Knowledge/ DB)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="80" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sUY-Zy0f5F4GO56hMFCW-8" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Environment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="630" width="120" height="30" as="geometry" />
+        <mxCell id="sUY-Zy0f5F4GO56hMFCW-8" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Sensors&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;（Text,Image, etc）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="880" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
