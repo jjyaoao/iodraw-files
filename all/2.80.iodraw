@@ -29,16 +29,16 @@
           <mxGeometry x="-460" y="190" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="moL6b2Z_Mz8y5JECVABh-10" value="Task C data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="390" width="93" height="30" as="geometry" />
+          <mxGeometry x="-373" y="340" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moL6b2Z_Mz8y5JECVABh-11" value="Task B data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="450" width="93" height="30" as="geometry" />
+          <mxGeometry x="-373" y="400" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moL6b2Z_Mz8y5JECVABh-12" value="Task A data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="510" width="93" height="30" as="geometry" />
+          <mxGeometry x="-373" y="460" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="moL6b2Z_Mz8y5JECVABh-13" value="Fine-tuning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="-250" y="400" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
