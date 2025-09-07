@@ -98,10 +98,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tkm391LF6GFXdSONnDR4-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="320" y="865" width="140" height="65" as="geometry" />
+          <mxGeometry x="320" y="865" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-28" value="&lt;font color=&quot;#ffffff&quot;&gt;Perception &amp;amp; Execution&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Module&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="865" width="150" height="40" as="geometry" />
+        <mxCell id="Tkm391LF6GFXdSONnDR4-28" value="&lt;font color=&quot;#ffffff&quot;&gt;Execution&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;Module&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="870" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tkm391LF6GFXdSONnDR4-36" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Tool Use&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="570" y="645" width="160" height="40" as="geometry" />
