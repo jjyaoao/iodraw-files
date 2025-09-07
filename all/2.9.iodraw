@@ -109,7 +109,7 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-36" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Tool Use&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="550" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-38" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Tool Use&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-38" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Information Retrieval&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="550" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
