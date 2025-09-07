@@ -16,8 +16,8 @@
         <mxCell id="moL6b2Z_Mz8y5JECVABh-4" value="Basic Model&lt;div&gt;（LLM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-260" y="257.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="moL6b2Z_Mz8y5JECVABh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="moL6b2Z_Mz8y5JECVABh-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="180" width="520" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
