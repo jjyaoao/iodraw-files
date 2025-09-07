@@ -47,8 +47,8 @@
         <mxCell id="Vq9SddEUwJdy-gSfHIz8-16" value="完整的链式法则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vq9SddEUwJdy-gSfHIz8-17" value="完整的链式法则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="310" width="110" height="30" as="geometry" />
+        <mxCell id="Vq9SddEUwJdy-gSfHIz8-17" value="马尔可夫假设（Bigram）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="300" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
