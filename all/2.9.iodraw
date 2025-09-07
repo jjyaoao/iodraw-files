@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="ta-N8FXwd871i_dSQWgM">
-    <mxGraphModel dx="830" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-3" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Short-term Memory&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
           <mxGeometry x="80" y="740" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="sUY-Zy0f5F4GO56hMFCW-4">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=diamond;endFill=1;curved=1;" edge="1" parent="1" source="sUY-Zy0f5F4GO56hMFCW-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="760" as="targetPoint" />
           </mxGeometry>
