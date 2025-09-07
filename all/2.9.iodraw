@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="ta-N8FXwd871i_dSQWgM">
-    <mxGraphModel dx="830" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="278" dy="162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,12 +49,12 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-14" value="&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;Large Language Model&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#f1f3f4&quot;&gt;(LLM)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#579fcf;" vertex="1" parent="1">
           <mxGeometry x="310" y="735" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.006;exitY=0.55;exitDx=0;exitDy=0;curved=1;entryX=-0.018;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;exitPerimeter=0;" edge="1" parent="1" source="Tkm391LF6GFXdSONnDR4-14" target="Tkm391LF6GFXdSONnDR4-14">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.562;exitDx=0;exitDy=0;curved=1;entryX=-0.018;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;exitPerimeter=0;" edge="1" parent="1" source="Tkm391LF6GFXdSONnDR4-14" target="Tkm391LF6GFXdSONnDR4-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="780" as="sourcePoint" />
             <mxPoint x="297.1" y="747.6600000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="309" y="770" />
+              <mxPoint x="310" y="770" />
               <mxPoint x="210" y="770" />
               <mxPoint x="210" y="690" />
               <mxPoint x="280" y="690" />
