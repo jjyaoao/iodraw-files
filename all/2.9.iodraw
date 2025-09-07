@@ -157,8 +157,8 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-55" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;Action&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="875" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-57" value="&lt;font color=&quot;#ffffff&quot;&gt;Execution&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;Module&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="895" width="120" height="30" as="geometry" />
+        <mxCell id="Tkm391LF6GFXdSONnDR4-57" value="&lt;font color=&quot;#ffffff&quot;&gt;Perception&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;Module&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
