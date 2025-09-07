@@ -40,7 +40,7 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-9" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;(Text, Image, etc)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="890" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-12" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1" source="sUY-Zy0f5F4GO56hMFCW-1" target="sUY-Zy0f5F4GO56hMFCW-8">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-12" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;curved=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="sUY-Zy0f5F4GO56hMFCW-1" target="sUY-Zy0f5F4GO56hMFCW-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
