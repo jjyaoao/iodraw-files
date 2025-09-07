@@ -43,8 +43,11 @@
         <mxCell id="moL6b2Z_Mz8y5JECVABh-14" value="Task C Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-130" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moL6b2Z_Mz8y5JECVABh-15" value="Task C Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="350" width="80" height="30" as="geometry" />
+        <mxCell id="moL6b2Z_Mz8y5JECVABh-15" value="Task B Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="moL6b2Z_Mz8y5JECVABh-16" value="Task B Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="460" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
