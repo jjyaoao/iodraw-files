@@ -40,8 +40,8 @@
             <mxPoint x="110" y="396" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="84" y="390" />
-              <mxPoint x="110" y="390" />
-              <mxPoint x="110" y="400" />
+              <mxPoint x="250" y="390" />
+              <mxPoint x="250" y="400" />
               <mxPoint x="216" y="400" />
               <mxPoint x="216" y="360" />
             </Array>
