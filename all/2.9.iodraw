@@ -28,11 +28,6 @@
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-3" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Short-term Memory&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
           <mxGeometry x="80" y="740" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sUY-Zy0f5F4GO56hMFCW-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sUY-Zy0f5F4GO56hMFCW-4" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Long-term Memory&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" parent="1" vertex="1">
           <mxGeometry x="80" y="810" width="120" height="50" as="geometry" />
         </mxCell>
@@ -81,8 +76,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-17" value="&lt;font color=&quot;#4b98cb&quot; style=&quot;font-size: 10px;&quot;&gt;Learning &amp;amp; Retrieval&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="765" width="110" height="30" as="geometry" />
+        <mxCell id="Tkm391LF6GFXdSONnDR4-17" value="&lt;font color=&quot;#4b98cb&quot; style=&quot;font-size: 10px;&quot;&gt;Learning &amp;amp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4b98cb&quot; style=&quot;font-size: 10px;&quot;&gt;Retrieval&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="775" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tkm391LF6GFXdSONnDR4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.551;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1" source="Tkm391LF6GFXdSONnDR4-1" target="Tkm391LF6GFXdSONnDR4-14">
           <mxGeometry relative="1" as="geometry" />
