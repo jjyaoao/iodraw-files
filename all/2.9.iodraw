@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-17" value="Learning &amp;amp; Retireval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-17" value="Learning &amp;amp; Retrieval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="780" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
