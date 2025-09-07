@@ -85,13 +85,7 @@
           <mxGeometry x="210" y="710" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tkm391LF6GFXdSONnDR4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.551;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1" source="Tkm391LF6GFXdSONnDR4-1" target="Tkm391LF6GFXdSONnDR4-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="702" />
-              <mxPoint x="380" y="702" />
-              <mxPoint x="380" y="734" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
