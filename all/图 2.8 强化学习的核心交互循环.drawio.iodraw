@@ -13,10 +13,10 @@
         <mxCell id="Ty6kzGFPjn1JhoRk_kAp-4" value="Action&lt;br&gt;A&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="245" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-5" value="状态&lt;br&gt;S&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-5" value="State&lt;br&gt;S&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry y="245" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-6" value="奖励&lt;br&gt;R&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Ty6kzGFPjn1JhoRk_kAp-6" value="Reward&lt;br&gt;R&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="90" y="245" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ty6kzGFPjn1JhoRk_kAp-7" value="R&lt;sub&gt;t+1&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
