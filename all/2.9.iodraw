@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tkm391LF6GFXdSONnDR4-62" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;Memory Update&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="228.75" y="800" width="90" height="30" as="geometry" />
+          <mxGeometry x="240" y="807" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
