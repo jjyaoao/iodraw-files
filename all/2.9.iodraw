@@ -142,8 +142,8 @@
         <mxCell id="Tkm391LF6GFXdSONnDR4-52" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Tool Result&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="770" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-53" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Environment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7C838C;strokeColor=#579fcf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="950" width="120" height="30" as="geometry" />
+        <mxCell id="Tkm391LF6GFXdSONnDR4-53" value="&lt;font color=&quot;#f1f3f4&quot;&gt;Environment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="885" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
