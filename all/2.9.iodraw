@@ -94,11 +94,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Tkm391LF6GFXdSONnDR4-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="330" y="850" width="120" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Tkm391LF6GFXdSONnDR4-27" value="&lt;font color=&quot;#ffffff&quot;&gt;aaaa&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="860" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
