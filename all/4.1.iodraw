@@ -22,7 +22,7 @@
         <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-3" value="Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-4" value="Observations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-4" value="Observation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="700" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.017;exitY=0.64;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="c2OGiLu4Fdp-ZhkcSdzp-5" target="OFAVdG4SumZwsFSycZZ4-1">
