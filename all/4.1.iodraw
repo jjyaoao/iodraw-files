@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OFAVdG4SumZwsFSycZZ4-1" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OFAVdG4SumZwsFSycZZ4-1" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="354" y="630" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OFAVdG4SumZwsFSycZZ4-2" value="ENV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="630" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
