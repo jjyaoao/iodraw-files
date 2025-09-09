@@ -25,7 +25,10 @@
         <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-4" value="Observations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-5" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c2OGiLu4Fdp-ZhkcSdzp-5" target="OFAVdG4SumZwsFSycZZ4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-5" value="Tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="354" y="530" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
