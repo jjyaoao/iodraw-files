@@ -13,8 +13,11 @@
         <mxCell id="YRLLR70tgi8nC0EW9PfN-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YRLLR70tgi8nC0EW9PfN-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="438" width="50" height="30" as="geometry" />
+        <mxCell id="YRLLR70tgi8nC0EW9PfN-4" value="Task List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YRLLR70tgi8nC0EW9PfN-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
