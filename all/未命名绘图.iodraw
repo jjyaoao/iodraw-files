@@ -55,8 +55,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLLR70tgi8nC0EW9PfN-19" value="Loop to solve task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="648" width="120" height="30" as="geometry" />
+        <mxCell id="YRLLR70tgi8nC0EW9PfN-19" value="Loop to&amp;nbsp;&lt;div&gt;solve task&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381" y="531" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
