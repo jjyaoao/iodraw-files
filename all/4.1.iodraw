@@ -22,8 +22,11 @@
         <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-3" value="Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-4" value="Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="595" width="60" height="30" as="geometry" />
+        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-4" value="Observations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c2OGiLu4Fdp-ZhkcSdzp-5" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="530" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
