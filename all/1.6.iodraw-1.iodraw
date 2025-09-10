@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AgIX9ux59LG2VbvOJbE2-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2.5" y="330" width="417.5" height="170" as="geometry" />
+          <mxGeometry x="2.5" y="328" width="417.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="210" width="420" height="100" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-23" value="WorkFlow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="207.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AgIX9ux59LG2VbvOJbE2-25" value="Agent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="321.88" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
