@@ -44,13 +44,16 @@
           <mxGeometry x="40" y="340" width="80" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-9" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="333.75" width="75" height="46.25" as="geometry" />
+          <mxGeometry x="182.5" y="333.75" width="75" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-10" value="Tool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="75" height="46.25" as="geometry" />
+          <mxGeometry x="107.5" y="420" width="75" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-11" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="430" width="75" height="46.25" as="geometry" />
+          <mxGeometry x="190" y="420" width="75" height="46.25" as="geometry" />
+        </mxCell>
+        <mxCell id="AgIX9ux59LG2VbvOJbE2-12" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="420" width="75" height="46.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
