@@ -41,7 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-6" value="Input" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;size=24;position=0.5;" vertex="1" parent="1">
-          <mxGeometry x="20" y="253.75" width="80" height="56.25" as="geometry" />
+          <mxGeometry y="333.75" width="80" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="AgIX9ux59LG2VbvOJbE2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="332" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
