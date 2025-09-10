@@ -13,9 +13,6 @@
         <mxCell id="hPvdQKTbVvVs732TvXQv-3" value="Step1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="240" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hPvdQKTbVvVs732TvXQv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hPvdQKTbVvVs732TvXQv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hPvdQKTbVvVs732TvXQv-5" target="hPvdQKTbVvVs732TvXQv-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -23,7 +20,7 @@
           <mxGeometry x="260" y="237.5" width="70" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hPvdQKTbVvVs732TvXQv-6" value="Output" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="243.75" width="70" height="42.5" as="geometry" />
+          <mxGeometry x="350" y="243.75" width="60" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="hPvdQKTbVvVs732TvXQv-11" value="Input" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;size=24;position=0.5;" parent="1" vertex="1">
           <mxGeometry x="10" y="243.75" width="80" height="56.25" as="geometry" />
@@ -71,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-18" value="Output" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="351.88" width="70" height="42.5" as="geometry" />
+          <mxGeometry x="290" y="351.88" width="60" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="AgIX9ux59LG2VbvOJbE2-23" value="WorkFlow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="207.5" width="80" height="30" as="geometry" />
