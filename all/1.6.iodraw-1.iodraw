@@ -19,7 +19,7 @@
         <mxCell id="hPvdQKTbVvVs732TvXQv-6" value="Step3..." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="243.75" width="70" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="hPvdQKTbVvVs732TvXQv-11" value="Input" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+        <mxCell id="hPvdQKTbVvVs732TvXQv-11" value="Input" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;size=34;position=0.5;" parent="1" vertex="1">
           <mxGeometry x="10" y="243.75" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hPvdQKTbVvVs732TvXQv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.024;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hPvdQKTbVvVs732TvXQv-3" target="hPvdQKTbVvVs732TvXQv-5" edge="1">
