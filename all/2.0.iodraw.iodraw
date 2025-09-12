@@ -58,6 +58,9 @@
         <mxCell id="p7Hl9_q4f_SmjpheYrOY-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;方案:&lt;/b&gt; 物理符号系统 + 规则推理&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="385" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="p7Hl9_q4f_SmjpheYrOY-12" value="&lt;li&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="230" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
