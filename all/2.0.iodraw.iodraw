@@ -52,6 +52,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="p7Hl9_q4f_SmjpheYrOY-10" value="符号主义" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
