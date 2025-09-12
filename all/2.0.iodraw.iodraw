@@ -55,7 +55,7 @@
         <mxCell id="p7Hl9_q4f_SmjpheYrOY-17" value="心智社会" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="315" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p7Hl9_q4f_SmjpheYrOY-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;痛点: &lt;/b&gt;知识难形式化，系统脆弱&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;方案:&lt;/b&gt; 物理符号系统 + 规则推理&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;新局限&lt;/b&gt;: 缺乏具体实现路径&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p7Hl9_q4f_SmjpheYrOY-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;解决痛点: &lt;/b&gt;知识难形式化，系统脆弱&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;方案:&lt;/b&gt;&amp;nbsp;简单智能体协作 + 涌现&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;新局限&lt;/b&gt;: 缺乏具体实现路径&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="334" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p7Hl9_q4f_SmjpheYrOY-20" value="学习范式" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
