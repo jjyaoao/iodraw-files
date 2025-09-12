@@ -7,12 +7,12 @@
         <mxCell id="p7Hl9_q4f_SmjpheYrOY-2" value="起点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="358" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p7Hl9_q4f_SmjpheYrOY-3" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
+        <mxCell id="p7Hl9_q4f_SmjpheYrOY-3" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=elbowEdgeStyle;strokeColor=#001F61;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="390" as="sourcePoint" />
-            <mxPoint x="280" y="320" as="targetPoint" />
+            <mxPoint x="210" y="408" as="sourcePoint" />
+            <mxPoint x="280" y="338" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="358" />
+              <mxPoint x="280" y="376" />
             </Array>
           </mxGeometry>
         </mxCell>
