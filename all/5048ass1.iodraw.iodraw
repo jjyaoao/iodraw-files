@@ -22,10 +22,10 @@
         <mxCell id="U0xa47yEoNnLqKEI6Usd-5" value="Q2=Fossil Energy&amp;nbsp;&lt;div&gt;Per Capita&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U0xa47yEoNnLqKEI6Usd-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="U0xa47yEoNnLqKEI6Usd-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="280" as="sourcePoint" />
-            <mxPoint x="485" y="230" as="targetPoint" />
+            <mxPoint x="460" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
