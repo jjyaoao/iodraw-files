@@ -37,8 +37,8 @@
         <mxCell id="aucebxlkzwj1R5b0D2Wp-6" value="Short term&lt;div&gt;Memory&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="650" y="370" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="aucebxlkzwj1R5b0D2Wp-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
-          <mxGeometry x="540" y="450" width="100" height="45" as="geometry" />
+        <mxCell id="aucebxlkzwj1R5b0D2Wp-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=21.33;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="100" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
