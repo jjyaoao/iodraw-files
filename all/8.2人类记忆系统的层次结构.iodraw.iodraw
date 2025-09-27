@@ -62,7 +62,10 @@
           <mxGeometry x="490" y="310" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aucebxlkzwj1R5b0D2Wp-18" value="Retrieval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="595" y="405" width="70" height="30" as="geometry" />
+          <mxGeometry x="589" y="405" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aucebxlkzwj1R5b0D2Wp-19" value="Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="350" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
