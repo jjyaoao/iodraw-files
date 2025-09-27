@@ -8,19 +8,19 @@
           <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maF3x_LOhm0_BR1phfV6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="270" y="285" width="130" height="210" as="geometry" />
+          <mxGeometry x="260" y="300" width="130" height="185" as="geometry" />
         </mxCell>
         <mxCell id="maF3x_LOhm0_BR1phfV6-3" value="Vision" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="275" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="265" y="315" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="maF3x_LOhm0_BR1phfV6-6" value="Hearing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="275" y="340" width="120" height="30" as="geometry" />
+          <mxGeometry x="265" y="355" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="maF3x_LOhm0_BR1phfV6-7" value="Touch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="275" y="380" width="120" height="30" as="geometry" />
+          <mxGeometry x="265" y="395" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="maF3x_LOhm0_BR1phfV6-8" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="275" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="265" y="435" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
