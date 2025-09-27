@@ -50,7 +50,10 @@
           <mxGeometry x="275" y="528" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aucebxlkzwj1R5b0D2Wp-12" value="&lt;span class=&quot;selected&quot;&gt;Information is forgotten from short-term memory without rehearsal.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="530" width="390" height="40" as="geometry" />
+          <mxGeometry x="550" y="499" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aucebxlkzwj1R5b0D2Wp-13" value="&lt;span class=&quot;selected&quot;&gt;Sensory information that is not attended to decays rapidly.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
