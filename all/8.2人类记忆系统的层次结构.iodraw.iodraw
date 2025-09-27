@@ -55,9 +55,6 @@
         <mxCell id="aucebxlkzwj1R5b0D2Wp-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=24.19;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="501.5" y="429" width="45" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="aucebxlkzwj1R5b0D2Wp-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;" vertex="1" parent="1">
-          <mxGeometry x="510" y="230" width="100" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
