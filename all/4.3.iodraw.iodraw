@@ -31,8 +31,8 @@
         <mxCell id="zUXF5Z2HMvyrGrfLf7Ad-1" value="Experience&lt;div&gt;(Long memory)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="495" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zUXF5Z2HMvyrGrfLf7Ad-2" value="Experience&lt;div&gt;(Long memory)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="505" width="110" height="40" as="geometry" />
+        <mxCell id="zUXF5Z2HMvyrGrfLf7Ad-2" value="&lt;div&gt;Trajectory&lt;br&gt;(short&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;memory)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="565" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
