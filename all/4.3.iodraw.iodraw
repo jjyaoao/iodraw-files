@@ -40,8 +40,8 @@
         <mxCell id="zUXF5Z2HMvyrGrfLf7Ad-4" value="Observation" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="660" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zUXF5Z2HMvyrGrfLf7Ad-5" value="Observation" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="670" width="80" height="50" as="geometry" />
+        <mxCell id="zUXF5Z2HMvyrGrfLf7Ad-5" value="Action" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="421" y="660" width="56" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
